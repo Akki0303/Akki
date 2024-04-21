@@ -1,0 +1,1 @@
+print("Akki+entri course")
